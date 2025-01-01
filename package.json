@@ -1,6 +1,6 @@
 {
   "name": "magicaeintegralis-com-public",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Magicae Integralis (public)",
   "main": "index.js",
   "scripts": {
