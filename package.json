@@ -1,6 +1,6 @@
 {
   "name": "magicaeintegralis-com-public",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Magicae Integralis (public)",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,6 @@
   },
   "author": "Andrew J. Baker <andrew_j_baker2@hotmail.com>",
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
